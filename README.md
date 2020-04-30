@@ -12,13 +12,15 @@ To stop the spread of fake news related to Covid19 be it related to Healthcare, 
                 ML kit features - For performing operations related to ML model.
 3) Google App Script :- For retrieving and storing information from Google Excel Sheet to Firebase and triggering ML scripts.
 
+### The ".aia" file of the app is titled as "most_stable_version5.aia"
+
 ### Usage of the app:-
 
  -> The app is built right now only for Android Platforms. While building we took care of including the latest versions of Android.The                                  app is expected to work well in Android version 5 onwards..
  
 **-> An internet connection is required for working with the app.**
 
-**-> Download the ".apk" file named as *"most_stable_version5"*. You are now good to go..**
+**-> Download the ".apk" file named as *"most_stable_version5.apk"*. You are now good to go..**
 
 -> Sign Up on the app( Sign Up features helps us to authenticate the users) with your mobile number(along with country code) and    password. Right now the user can enter password in any format and its validation is not done as it not an urgent feature for right now..Future version of the app will have that.
 
