@@ -1,0 +1,19 @@
+As a leader in FHIR interoperability, 1upHealth focuses on bridging the gap between patient centered data and provider needs, thus creating a platform for patients to aggregate and share medical data from over 10,000+ external health systems and wearable devices with providers, enabling improved healthcare outcomes and lower costs. To learn more, visit https://1up.health or check out this one-pager.
+Access Instructions 
+The first step to gaining access to the 1upHealth API is to create an account. Once your account is created, you can visit the developer console and begin your application. Detailed instructions can be found in the quick start guide.  The free tier grants access up to 1000 API requests per month. The COVID-19 Challenge cannot provide additional credits for the API.To get started, it’s recommended that you visit these pages for more details:
+general query and post to the 1up health API
+create a user via API on 1upHealth
+connect health systems with live data using test credentials
+launch our demo app, it contains calls to our api and the iFrame to display within health systems.
+
+Links :-
+
+One-pager: https://www.dropbox.com/s/snu44hq67ksdllm/OnePager_1upHealth.pdf?dl=0
+Account: https://1up.health/patient/user/register 
+Console: http://1up.health/devconsole 
+Guide: https://1up.health/dev/quick-start 
+General Query and post: https://1up.health/dev/doc/intro-fhir-api-oauth-query 
+Create user via API: https://1up.health/dev/doc/user-management 
+Demo app:https://1up.health/dev/doc/starter-app 
+Calls to API:https://github.com/1uphealth/1upwebapp/blob/master/oneup.js 
+iFrame: https://github.com/1uphealth/1upwebapp/blob/master/pages/index.js#L40-L44 

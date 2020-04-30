@@ -1,0 +1,7 @@
+The COVID-19 FHIR Profile Implementation Guide (IG) is an in-development set of artifacts for FHIR and SMART-on-FHIR developers to write semantically interoperable apps. Platform-agnostic clinical models are also available in spreadsheet format. Iterative releases started April 1st and will evolve into balloted materials for HL7 standardization. Development is a highly active, collaborative effort driven by Logica across many partner organizations.
+Access Instructions
+Details about this project, including the implementation guide, GitHub, and Docker repositories, can be found here. 
+
+
+Links-----
+Project details: https://www.logicahealth.org/covid-19-interoperability-project/ 
